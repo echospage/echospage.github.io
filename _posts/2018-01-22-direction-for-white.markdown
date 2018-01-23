@@ -76,6 +76,8 @@ categories: Direction
 <br>双击进入，选中 _posts 点击选择文件夹：<br>
 ![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/wSXF7)
 
+这时，WordMark 的左边栏出现了 _posts 目录，鼠标右键 - 新文件 就可以往里面创建新博客，点击其他文件就可以修改旧博客。
+
 [github-modifyPassword]: https://github.com/password_reset
 [github-download]: https://desktop.githubusercontent.com/releases/1.0.12-6fd0d962/GitHubDesktopSetup.exe
 [workmark-download]: https://github.com/wordmark/wordmark/releases/download/v2.2.5/WordMark-win32-x64.zip
