@@ -35,13 +35,16 @@ categories: Direction
 ![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/qXrx8)
 <br>记住是 “Github Desktop”，然后就可以把刚刚的安装包删除。
 
-打开应用主界面，点击 Clone a repository 准备下载博客项目：<br>
+打开应用主界面，点击 Clone a repository 准备下载博客项目：
+
 ![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/S3YIA)
 
-下载之前需要登录，点击 Sign in 填入账户密码，继续 Sign in：<br>
+下载之前需要登录，点击 Sign in 填入账户密码，继续 Sign in：
+
 ![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/AzRMB)
 
-然后设置项目要放的位置：<br>
+然后设置项目要放的位置：
+
 ![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/8yqyu)
 
 点击 Clone 之后，项目开始下载。<br>
@@ -58,32 +61,43 @@ categories: Direction
 
 这次下载下来的直接是个 zip 压缩文件，点击解压：<br>
 ![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/GhKqk)
-<br>这个东西就是编辑器所在的文件夹，我们把它移动到放软件的地方，<br>
+
+这个东西就是编辑器所在的文件夹，我们把它移动到放软件的地方，<br>
 像小白经常使用的 C 盘，其他盘也行，防止被误删。<br>
-移动完成之后，双击进入这个文件夹，找到这个文件：<br>
+移动完成之后，双击进入这个文件夹，找到这个文件：
+
 ![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/sxr4A)
-<br>“鼠标右键 - 发送到 - 桌面快捷方式”:<br>
+
+“鼠标右键 - 发送到 - 桌面快捷方式”:
+
 ![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/4YNDF)
-<br>然后桌面就出现了这个图标：<br>
+
+然后桌面就出现了这个图标：
+
 ![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/HrQcC)
 <br>双击打开。
 
-在出现的应用界面左下角，找到 + 号，点击添加文件夹：<br>
-![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/bs5rU)
+在出现的应用界面左下角，找到 + 号，点击添加文件夹：
 
-找到刚刚下载的 echospage.github.io 文件夹：<br>
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/bs5rU)
+<br>找到刚刚下载的 echospage.github.io 文件夹：
+
 ![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/TyRQc)
-<br>双击进入，选中 _posts 点击选择文件夹：<br>
+
+双击进入，选中 _posts 点击选择文件夹：
+
 ![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/df5Dn)
 
-这时，WordMark 的左边栏出现了 _posts 目录，鼠标右键 - 新文件 就可以往里面创建新博客，点击其他文件就可以修改旧博客。<br>
+这时，WordMark 的左边栏出现了 _posts 目录，鼠标右键 - 新文件 就可以往里面创建新博客，点击其他文件就可以修改旧博客。
+
 ![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/mj405)
 <br><br>
 
 ### 开始编写博客
 
 创建在 _posts 文件夹里面的 .md 文件会自动生成文章页面，<br>
-这个文件的命名非常严格："时间-主题.md" 可以点击一下其他文件，再作修改。<br>
+这个文件的命名非常严格："时间-主题.md" 可以点击一下其他文件，再作修改。
+
 ![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/ABXRO)
 
 文章开头有一个文章属性的东西，到其他文章复制过来填好就行：<br>
@@ -93,7 +107,8 @@ categories: Direction
 写之前学一下 MD 语法：<br>
 [MD 语法传送门][markdown-learn]
 
-编辑完成之后保存，然后打开 Github Desktop：<br>
+编辑完成之后保存，然后打开 Github Desktop：
+
 ![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/VqKw3)
 
 提交修改之后，博客就自动更新啦~<br>
