@@ -51,34 +51,56 @@ categories: Direction
 恭喜你，博客已经下载到你的电脑中。
 <br><br>
 
-### 开始编辑博客
+### 安装设置编辑器
 
 编辑博客需要下载博客编辑工具：<br>
 [博客编辑工具传送门][workmark-download]
 
 这次下载下来的直接是个 zip 压缩文件，点击解压：<br>
-![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/wSXF7)
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/GhKqk)
 <br>这个东西就是编辑器所在的文件夹，我们把它移动到放软件的地方，<br>
 像小白经常使用的 C 盘，其他盘也行，防止被误删。<br>
 移动完成之后，双击进入这个文件夹，找到这个文件：<br>
-![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/wSXF7)
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/sxr4A)
 <br>“鼠标右键 - 发送到 - 桌面快捷方式”:<br>
-![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/wSXF7)
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/4YNDF)
 <br>然后桌面就出现了这个图标：<br>
-![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/wSXF7)
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/HrQcC)
 <br>双击打开。
 
 在出现的应用界面左下角，找到 + 号，点击添加文件夹：<br>
-![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/wSXF7)
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/bs5rU)
 
 找到刚刚下载的 echospage.github.io 文件夹：<br>
-![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/wSXF7)
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/TyRQc)
 <br>双击进入，选中 _posts 点击选择文件夹：<br>
-![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/wSXF7)
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/df5Dn)
 
-这时，WordMark 的左边栏出现了 _posts 目录，鼠标右键 - 新文件 就可以往里面创建新博客，点击其他文件就可以修改旧博客。
+这时，WordMark 的左边栏出现了 _posts 目录，鼠标右键 - 新文件 就可以往里面创建新博客，点击其他文件就可以修改旧博客。<br>
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/mj405)
+<br><br>
+
+### 开始编写博客
+
+创建在 _posts 文件夹里面的 .md 文件会自动生成文章页面，<br>
+这个文件的命名非常严格："时间-主题.md" 可以点击一下其他文件，再作修改。<br>
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/ABXRO)
+
+文章开头有一个文章属性的东西，到其他文章复制过来填好就行：<br>
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/9waGx)
+
+正文的东西就可以随便你写啦~<br>
+写之前学一下 MD 语法：<br>
+[MD 语法传送门][markdown-learn]
+
+编辑完成之后保存，然后打开 Github Desktop：<br>
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/VqKw3)
+
+提交修改之后，博客就自动更新啦~<br>
+[博客传送门][eudemonia-url]
 
 [github-modifyPassword]: https://github.com/password_reset
 [github-download]: https://desktop.githubusercontent.com/releases/1.0.12-6fd0d962/GitHubDesktopSetup.exe
 [workmark-download]: https://github.com/wordmark/wordmark/releases/download/v2.2.5/WordMark-win32-x64.zip
-
+[markdown-learn]: https://www.jianshu.com/p/22ba695a7ce3
+[eudemonia-url]: http://eudemonia.xyz
