@@ -24,7 +24,29 @@ categories: Direction
 [对讲机下载传送门][github-download]
 
 下载到哪里都可以，因为这只是一个安装包，安装完就可以删除了。
-下载完成之后双击打开，
+下载完成之后双击打开，<br>
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/5SqWX)
+
+显示这个页面，应用正在自动安装。<br>
+安装完成后，桌面会出现这个图标：<br>
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/qXrx8)
+
+记住是 “Github Desktop”，然后就可以把刚刚的安装包删除。
+
+打开应用主界面，点击 Clone a repository 准备下载博客项目：<br>
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/S3YIA)
+
+下载之前会要求登录，点击 Sign in 填入账户密码，继续点击 Sign in：<br>
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/AzRMB)
+
+然后设置项目要放的位置：<br>
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/8yqyu)
+
+点击 Clone 之后，项目开始下载。<br>
+稍作等待，就可以在你刚刚选择的目录下看到这个东西：<br>
+![Untitled Image](http://p2zucbwmj.bkt.clouddn.com/wSXF7)
+
+恭喜你，博客已经下载到你的电脑中。
 
 [github-modifyPassword]: https://github.com/password_reset
 [github-download]: https://desktop.githubusercontent.com/releases/1.0.12-6fd0d962/GitHubDesktopSetup.exe
